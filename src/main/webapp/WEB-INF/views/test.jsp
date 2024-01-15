@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<link rel="stylesheet" href="/resources/css/test.css">
 <title>테스트 페이지</title>
 </head>
 <body>
-	HelloWorld!!!!!
+	<span class="test">테스트이미지</span><br><br>
+	<img src="/resources/img/slamdunk.png">
 </body>
 </html>
